@@ -10,7 +10,7 @@ function App() {
   return (
     <FeedbackProvider>
       <Navbar />
-      <div className="container p-5 bg-dark">
+      <div className="container p-5 mt-5 bg-dark">
         <Form />
         <AvgComponents />
         <ListGroup />
